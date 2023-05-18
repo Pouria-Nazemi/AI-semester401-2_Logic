@@ -42,6 +42,7 @@ Command| Does...
 `breeze(yes)`|There is a breeze.
 `glitter(yes)`|There is a glitter.
 `gold(X,Y)`|Gold is in room [x.y].
+`pit(X,Y)`|Pit is in room [x.y].
 
 ## 🎯 Where are the tasks?
 * Task1
