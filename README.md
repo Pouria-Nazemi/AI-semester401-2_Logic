@@ -47,10 +47,10 @@ Command| Does...
 * Task1
 
 
-![Task1](pics/task1.png)
+![Task1](pics/Task1.png)
 
 
 * Task2
 
 
-![Task2](pics/task2.png)
+![Task2](pics/Task2.png)
