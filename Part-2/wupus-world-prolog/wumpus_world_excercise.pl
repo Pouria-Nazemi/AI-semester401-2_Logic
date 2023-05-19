@@ -4,7 +4,7 @@
 
 :- use_module(library(lists)).
 
-type_of_evaluate_world(fig72). % Change this to random for true evaluation.
+type_of_evaluate_world(mysteriousWorld). % Change this to random for true evaluation.
 
 % changes: max_agent_actions = 8*n*n
 
@@ -91,7 +91,7 @@ initialize(World,[Stench,Breeze,Glitter,no,no]) :-
 
 
 
-initialize_world(fig72) :-
+initialize_world(mysteriousWorld) :-
   ww_retractall,
   retractall(ww_initial_state(_)),
   assert(ww_initial_state([])),
