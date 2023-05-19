@@ -302,7 +302,7 @@ decrement_score :-
 %% Complete the below codes:
 
 stench(yes) :-
-  agent_location(X,Y),
+
   X1 is X + 1,
   ***
   ( ***
@@ -311,7 +311,7 @@ stench(yes) :-
 
 
 breeze(yes) :-
-  agent_location(X,Y),
+
   X1 is X + 1,
   ***
   ( 
@@ -321,7 +321,7 @@ breeze(yes) :-
 
 
 glitter(yes) :-
-  agent_location(X,Y),
+  
   ***,
   !.
 % #########################################################################################################################################
