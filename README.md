@@ -13,7 +13,7 @@ $ swipl
 Load the world simulator:
 
 ```bash
- ?- [wumpus_world].
+ ?- [wumpus_world_excercise].
 ```
 
 Load the agent:
@@ -29,7 +29,7 @@ Run the agent:
 Press y - You can also
 run this directly:
 ```bash
- [wumpus_world]. [my_agent]. evaluate_agent(1, Score, Time). y
+ [wumpus_world_excercise]. [my_agent]. evaluate_agent(1, Score, Time). y
 ```
 
 ### List of predicates you should use
